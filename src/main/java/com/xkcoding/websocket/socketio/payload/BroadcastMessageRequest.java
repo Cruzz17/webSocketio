@@ -21,4 +21,18 @@ public class BroadcastMessageRequest {
      * 消息内容
      */
     private String message;
+
+    /**
+     *
+     */
+    private boolean isImage;
+
+    private boolean isSelf;
+
+    private String name;
+
+    private long time;
+
+    private String avatar;
+
 }
