@@ -11,7 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @package: com.xkcoding.websocket.socketio
  * @description: 启动器
  * @author: cwy
- * @date: Created in 2020-11-12 13:59
+ * @date: Created in 2020-11-18 13:59
  * @copyright: Copyright (c) 2018
  * @version: V1.0
  * @modified: cwy
